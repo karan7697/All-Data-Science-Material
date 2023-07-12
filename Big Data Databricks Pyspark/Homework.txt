@@ -1,0 +1,11 @@
+This homework is for lectures 9 and 10. It will have double weights. 
+
+For the homework, do the following:
+
+Pick a dataset
+Build either a classification or regression models using 
+Decision Tree
+Random Forest
+Gradient Boosted Trees
+Use K-Fold Cross Validation technique to determine the best performing model (show work)
+Submit .dbc file via Blackboard. 
